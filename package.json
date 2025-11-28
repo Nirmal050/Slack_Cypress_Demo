@@ -1,0 +1,25 @@
+{
+  "name": "slack_cypress_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirmal050/Slack_Cypress_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nirmal050/Slack_Cypress_Demo/issues"
+  },
+  "homepage": "https://github.com/Nirmal050/Slack_Cypress_Demo#readme",
+  "dependencies": {
+    "cypress": "^15.7.0",
+    "express": "^5.1.0"
+  }
+}
